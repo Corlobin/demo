@@ -1,14 +1,110 @@
 {
-  "hoteis ": [
-    { "id": 161914, "image": "981018_17_b.jpg", "name": "Ibis Hotel", "price": 203.22, "stars": 1, "features": [{"business-center", "nightclub"}] },
-    { "id": 161915, "image": "981018_18_b.jpg", "name": "MW Hotel", "price": 553.22, "stars": 2, "features": [{"business-center", "nightclub"}] },
-    { "id": 161916, "image": "981018_19_b.jpg", "name": "Itaparica Hotel", "price": 2353.22, "stars": 3, "features": [{"business-center", "nightclub"}] },
-    { "id": 161917, "image": "981018_20_b.jpg", "name": "Love Hotel", "price": 11453.22, "stars": 4, "features": [{"business-center", "nightclub"}] },
-    { "id": 161918, "image": "981018_21_b.jpg", "name": "Crush Hotel", "price": 2453.22, "stars": 4, "features": [{"business-center", "nightclub"}] },
-    { "id": 161919, "image": "981018_22_b.jpg", "name": "XYZ Hotel", "price": 5453.22, "stars": 5, "features": [{"business-center", "nightclub"}] },
-    { "id": 161920, "image": "981018_23_b.jpg", "name": "Markw Hotel", "price": 2453.22, "stars": 5, "features": [{"business-center", "nightclub"}] },
-    { "id": 161921, "image": "981018_24_b.jpg", "name": "Br hotel", "price": 7453.22, "stars": 5, "features": [{"business-center", "nightclub"}] },
-    { "id": 161922, "image": "981018_26_b.jpg", "name": "Posto Hotel", "price": 1713.22, "stars": 5, "features": [{"business-center", "nightclub"}] },
-    { "id": 161923, "image": "981018_27_b.jpg", "name": "Call Hotel", "price": 2453.22, "stars": 5, "features": [{"business-center", "nightclub"}] },
-  ]
+	"hoteis ": [{
+			"id": 161914,
+			"image": "981018_17_b.jpg",
+			"name": "Ibis Hotel",
+			"price": 203.22,
+			"stars": 1,
+			"features": ["business-center", "nightclub"]
+		},
+		{
+			"id": 161915,
+			"image": "981018_18_b.jpg",
+			"name": "MW Hotel",
+			"price": 553.22,
+			"stars": 2,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161916,
+			"image": "981018_19_b.jpg",
+			"name": "Itaparica Hotel",
+			"price": 2353.22,
+			"stars": 3,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161917,
+			"image": "981018_20_b.jpg",
+			"name": "Love Hotel",
+			"price": 11453.22,
+			"stars": 4,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161918,
+			"image": "981018_21_b.jpg",
+			"name": "Crush Hotel",
+			"price": 2453.22,
+			"stars": 4,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161919,
+			"image": "981018_22_b.jpg",
+			"name": "XYZ Hotel",
+			"price": 5453.22,
+			"stars": 5,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161920,
+			"image": "981018_23_b.jpg",
+			"name": "Markw Hotel",
+			"price": 2453.22,
+			"stars": 5,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161921,
+			"image": "981018_24_b.jpg",
+			"name": "Br hotel",
+			"price": 7453.22,
+			"stars": 5,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161922,
+			"image": "981018_26_b.jpg",
+			"name": "Posto Hotel",
+			"price": 1713.22,
+			"stars": 5,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		},
+		{
+			"id": 161923,
+			"image": "981018_27_b.jpg",
+			"name": "Call Hotel",
+			"price": 2453.22,
+			"stars": 5,
+			"features": [
+				"business-center",
+				"nightclub"
+			]
+		}
+	]
 }
